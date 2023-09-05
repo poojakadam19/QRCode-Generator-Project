@@ -20,3 +20,4 @@ when we are importing the module need to add “type”: “module” in js file
 
 "type": "module";
 
+to run this project use node solution.js
